@@ -7,4 +7,8 @@ Note: Make sure, you check which folder you are uploading the files. This will a
 Thanks,
 Wiselin
 
+<<<<<<< HEAD
 ##Assignment 1 Uploaded
+=======
+## Assigment1 Uploaded
+>>>>>>> 790a25d63bcd18581dd2cc946a396a89385eb36d
